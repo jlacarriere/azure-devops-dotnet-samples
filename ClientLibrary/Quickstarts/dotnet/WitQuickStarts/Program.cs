@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// 3rd comment from jerome 
 namespace WitQuickStarts
 {
     public class Program
